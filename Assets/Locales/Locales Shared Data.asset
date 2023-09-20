@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Locales Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Locales
+  m_TableCollectionNameGuidString: dcf7bab938e8b244aaf2e18a699bb442
+  m_Entries:
+  - m_Id: 8591639085056
+    m_Key: Scan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8622140063744
+    m_Key: BackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9773774307328
+    m_Key: FirstScan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9845828255744
+    m_Key: ScanCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928070168576
+    m_Key: ScanCodeOnTheGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10112892174336
+    m_Key: ScanMarker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10579370082304
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10695007043584
+    m_Key: ScanQRCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10810828554240
+    m_Key: ChooseDestination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11622803865600
+    m_Key: LoadingPath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11864370610176
+    m_Key: WhereAreYouGoing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1168160721502208
+    m_Key: FindAPlace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178621257283002368
+    m_Key: ObjectRecognition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178621513991184384
+    m_Key: ScanObjectQR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190754358473777152
+    m_Key: Assignment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190757037992304640
+    m_Key: AssignmentEntry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190757701208236032
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191473880663056384
+    m_Key: IdentificationNumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191474501214527488
+    m_Key: Building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191475130746003456
+    m_Key: Device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191475809929650176
+    m_Key: Operation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192756389954707456
+    m_Key: Checklist
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1647255808883

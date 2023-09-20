@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Locales_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: dcf7bab938e8b244aaf2e18a699bb442, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8591639085056
+    m_Localized: "Naskenujte n\xE1sleduj\xEDc\xED QR k\xF3d a symbol kompasu na podlaze
+      pro pokra\u010Dov\xE1n\xED v navigaci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9773774307328
+    m_Localized: "Naskenujte QR k\xF3d na nejbli\u017E\u0161\xED naviga\u010Dn\xED
+      ceduli pro up\u0159esn\u011Bn\xED va\u0161\xED aktu\xE1ln\xED polohy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9845828255744
+    m_Localized: "Naskenovat k\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8622140063744
+    m_Localized: "Zp\u011Bt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928070168576
+    m_Localized: "Naskenujte QR k\xF3d na zemi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10112892174336
+    m_Localized: Naskenujte symbol kompasu na zemi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10579370082304
+    m_Localized: "Dom\u016F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10695007043584
+    m_Localized: "Skenovat QR k\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10810828554240
+    m_Localized: Zvolte svou destinaci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11622803865600
+    m_Localized: "Na\u010D\xEDt\xE1m trasu..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11864370610176
+    m_Localized: "Kam se chyst\xE1te?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1168160721502208
+    m_Localized: "Vyhledat m\xEDsto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178621257283002368
+    m_Localized: "Rozpozn\xE1n\xED objektu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178621513991184384
+    m_Localized: "Naskenujte telefonem QR, kter\xE9 je um\xEDst\u011Bno na za\u0159\xEDzen\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190754358473777152
+    m_Localized: "Zad\xE1n\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190757037992304640
+    m_Localized: "Zapi\u0161te \xFAdaje z Va\u0161eho zad\xE1n\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190757701208236032
+    m_Localized: "Pokra\u010Dovat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191473880663056384
+    m_Localized: "Identifika\u010Dn\xED \u010D\xEDslo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191474501214527488
+    m_Localized: Budova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191475130746003456
+    m_Localized: "Za\u0159\xEDzen\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191475809929650176
+    m_Localized: "\xDAkon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192756389954707456
+    m_Localized: "Kontroln\xED seznam"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

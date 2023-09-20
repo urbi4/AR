@@ -1,0 +1,1746 @@
+fileFormatVersion: 2
+guid: 1e7fdc78286964048a0771844046d432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3594311632341841480
+    second: Overlay-textless-square-16fps_0
+  - first:
+      213: -8539661727123929128
+    second: Overlay-textless-square-16fps_1
+  - first:
+      213: -1653486855087119235
+    second: Overlay-textless-square-16fps_2
+  - first:
+      213: 2869040851224372868
+    second: Overlay-textless-square-16fps_3
+  - first:
+      213: -3054442834510074262
+    second: Overlay-textless-square-16fps_4
+  - first:
+      213: 8801578949072484847
+    second: Overlay-textless-square-16fps_5
+  - first:
+      213: -7182223218772782349
+    second: Overlay-textless-square-16fps_6
+  - first:
+      213: 9115552923018785701
+    second: Overlay-textless-square-16fps_7
+  - first:
+      213: 7554579009085406712
+    second: Overlay-textless-square-16fps_8
+  - first:
+      213: 8941559142540884487
+    second: Overlay-textless-square-16fps_9
+  - first:
+      213: 4153812920281894482
+    second: Overlay-textless-square-16fps_10
+  - first:
+      213: -6786025915665634283
+    second: Overlay-textless-square-16fps_11
+  - first:
+      213: -3794091200446225609
+    second: Overlay-textless-square-16fps_12
+  - first:
+      213: -6065224981438994937
+    second: Overlay-textless-square-16fps_13
+  - first:
+      213: -2182797312584610008
+    second: Overlay-textless-square-16fps_14
+  - first:
+      213: -5320936422715701386
+    second: Overlay-textless-square-16fps_15
+  - first:
+      213: 931055964561412868
+    second: Overlay-textless-square-16fps_16
+  - first:
+      213: 5020491847453425752
+    second: Overlay-textless-square-16fps_17
+  - first:
+      213: 370490528692403711
+    second: Overlay-textless-square-16fps_18
+  - first:
+      213: -4947281897431988246
+    second: Overlay-textless-square-16fps_19
+  - first:
+      213: -5944571985160138843
+    second: Overlay-textless-square-16fps_20
+  - first:
+      213: 2719218597959803684
+    second: Overlay-textless-square-16fps_21
+  - first:
+      213: 2291016319862578998
+    second: Overlay-textless-square-16fps_22
+  - first:
+      213: -7013315807679437522
+    second: Overlay-textless-square-16fps_23
+  - first:
+      213: 2826890245200853934
+    second: Overlay-textless-square-16fps_24
+  - first:
+      213: 104382717295175923
+    second: Overlay-textless-square-16fps_25
+  - first:
+      213: -7945502843996575846
+    second: Overlay-textless-square-16fps_26
+  - first:
+      213: -4403319735630520429
+    second: Overlay-textless-square-16fps_27
+  - first:
+      213: 6757542985749107781
+    second: Overlay-textless-square-16fps_28
+  - first:
+      213: -1631352050854945826
+    second: Overlay-textless-square-16fps_29
+  - first:
+      213: 7592724046231122892
+    second: Overlay-textless-square-16fps_30
+  - first:
+      213: 6341304038470356735
+    second: Overlay-textless-square-16fps_31
+  - first:
+      213: -4032552128142223082
+    second: Overlay-textless-square-16fps_32
+  - first:
+      213: -8890234826247632781
+    second: Overlay-textless-square-16fps_33
+  - first:
+      213: -6063112816920615639
+    second: Overlay-textless-square-16fps_34
+  - first:
+      213: 3217915929017018925
+    second: Overlay-textless-square-16fps_35
+  - first:
+      213: 2870777403098544880
+    second: Overlay-textless-square-16fps_36
+  - first:
+      213: 4138551517194164361
+    second: Overlay-textless-square-16fps_37
+  - first:
+      213: 1052037937498813706
+    second: Overlay-textless-square-16fps_38
+  - first:
+      213: -1050086167400478185
+    second: Overlay-textless-square-16fps_39
+  - first:
+      213: -7397836255152112301
+    second: Overlay-textless-square-16fps_40
+  - first:
+      213: 2347614577006408752
+    second: Overlay-textless-square-16fps_41
+  - first:
+      213: 6317257632673008890
+    second: Overlay-textless-square-16fps_42
+  - first:
+      213: -441701590873902462
+    second: Overlay-textless-square-16fps_43
+  - first:
+      213: 1958075427909339922
+    second: Overlay-textless-square-16fps_44
+  - first:
+      213: 2403518544309455262
+    second: Overlay-textless-square-16fps_45
+  - first:
+      213: 8290675355208661936
+    second: Overlay-textless-square-16fps_46
+  - first:
+      213: 574604484245262372
+    second: Overlay-textless-square-16fps_47
+  - first:
+      213: 5481047901110724886
+    second: Overlay-textless-square-16fps_48
+  - first:
+      213: -1535537665197003085
+    second: Overlay-textless-square-16fps_49
+  - first:
+      213: 5558162160423925913
+    second: Overlay-textless-square-16fps_50
+  - first:
+      213: -1929360910123588882
+    second: Overlay-textless-square-16fps_51
+  - first:
+      213: 4595218085003046351
+    second: Overlay-textless-square-16fps_52
+  - first:
+      213: 6197609446058334664
+    second: Overlay-textless-square-16fps_53
+  - first:
+      213: -5566548078025896822
+    second: Overlay-textless-square-16fps_54
+  - first:
+      213: -6795734568170991167
+    second: Overlay-textless-square-16fps_55
+  - first:
+      213: 4521979876760297681
+    second: Overlay-textless-square-16fps_56
+  - first:
+      213: -8549104908539729575
+    second: Overlay-textless-square-16fps_57
+  - first:
+      213: 7989613830695351558
+    second: Overlay-textless-square-16fps_58
+  - first:
+      213: 5244666098156823908
+    second: Overlay-textless-square-16fps_59
+  - first:
+      213: 8916922760924851107
+    second: Overlay-textless-square-16fps_60
+  - first:
+      213: -4118964617720591019
+    second: Overlay-textless-square-16fps_61
+  - first:
+      213: 8443455059919956381
+    second: Overlay-textless-square-16fps_62
+  - first:
+      213: -5891237501723518427
+    second: Overlay-textless-square-16fps_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c5362d907e1ec0800000000000000
+      internalID: -3594311632341841480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d787cc77e60d7980800000000000000
+      internalID: -8539661727123929128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7421c14772ad09e0800000000000000
+      internalID: -1653486855087119235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486205f0471e0d720800000000000000
+      internalID: 2869040851224372868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2a46dc607c95d0800000000000000
+      internalID: -3054442834510074262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97502eb6d752a70800000000000000
+      internalID: 8801578949072484847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25c7b190e935c90800000000000000
+      internalID: -7182223218772782349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3fec35613f08e70800000000000000
+      internalID: 9115552923018785701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7828359147d860800000000000000
+      internalID: 7554579009085406712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abb4d6aacc61c70800000000000000
+      internalID: 8941559142540884487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e84d8d7de45a930800000000000000
+      internalID: 4153812920281894482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca724326133d1a0800000000000000
+      internalID: -6786025915665634283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a7f7b72ea85bc0800000000000000
+      internalID: -3794091200446225609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e08aa30ef3dba0800000000000000
+      internalID: -6065224981438994937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f87beb86525b1e0800000000000000
+      internalID: -2182797312584610008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c79bd38c3826b0800000000000000
+      internalID: -5320936422715701386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40311b18776cbec00800000000000000
+      internalID: 931055964561412868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c43d4cbe5ca540800000000000000
+      internalID: 5020491847453425752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7b534c2f342500800000000000000
+      internalID: 370490528692403711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae788db7359b75bb0800000000000000
+      internalID: -4947281897431988246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af8ac27643a08da0800000000000000
+      internalID: -5944571985160138843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423a70668ea9cb520800000000000000
+      internalID: 2719218597959803684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f180064335bcf10800000000000000
+      internalID: 2291016319862578998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25a2a95e62bbae90800000000000000
+      internalID: -7013315807679437522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb63453b12b3720800000000000000
+      internalID: 2826890245200853934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8a1114787d27100800000000000000
+      internalID: 104382717295175923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a976abda247ebb190800000000000000
+      internalID: -7945502843996575846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f964db70444e2c0800000000000000
+      internalID: -4403319735630520429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5441204ea8d97cd50800000000000000
+      internalID: 6757542985749107781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9f29f3f54c59e0800000000000000
+      internalID: -1631352050854945826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc33c25ca46ce5960800000000000000
+      internalID: 7592724046231122892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe86c1ec66d00850800000000000000
+      internalID: 6341304038470356735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61956df643f7908c0800000000000000
+      internalID: -4032552128142223082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37804bb278a8f9480800000000000000
+      internalID: -8890234826247632781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925245a440f7bdba0800000000000000
+      internalID: -6063112816920615639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a612afc7558ac20800000000000000
+      internalID: 3217915929017018925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa38ec86dc07d720800000000000000
+      internalID: 2870777403098544880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988130b8da61f6930800000000000000
+      internalID: 4138551517194164361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f9d22ee6999e00800000000000000
+      internalID: 1052037937498813706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0b80c1385d61f0800000000000000
+      internalID: -1050086167400478185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df6211f1b955990800000000000000
+      internalID: -7397836255152112301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034fef30507649020800000000000000
+      internalID: 2347614577006408752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc891eb8586ba750800000000000000
+      internalID: 6317257632673008890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827c3b4eb2ced9f0800000000000000
+      internalID: -441701590873902462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b05f33a3b7c2b10800000000000000
+      internalID: 1958075427909339922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9901a4b1630b5120800000000000000
+      internalID: 2403518544309455262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3c474f456e0370800000000000000
+      internalID: 8290675355208661936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42019c9ebb769f700800000000000000
+      internalID: 574604484245262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ea96b608901c40800000000000000
+      internalID: 5481047901110724886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be23be01aca0bae0800000000000000
+      internalID: -1535537665197003085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f518590f822d40800000000000000
+      internalID: 5558162160423925913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee22f8479788935e0800000000000000
+      internalID: -1929360910123588882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdae06708e75cf30800000000000000
+      internalID: 4595218085003046351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c999e074f4520650800000000000000
+      internalID: 6197609446058334664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c02201406afb2b0800000000000000
+      internalID: -5566548078025896822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c153546a63b0b1a0800000000000000
+      internalID: -6795734568170991167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d023cb4dbc41ce30800000000000000
+      internalID: 4521979876760297681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e0fa716a7b5980800000000000000
+      internalID: -8549104908539729575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f42fb27fc0ee60800000000000000
+      internalID: 7989613830695351558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465eb22670cc8c840800000000000000
+      internalID: 5244666098156823908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6586d1064fbb70800000000000000
+      internalID: 8916922760924851107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8c5ed08f76d6c0800000000000000
+      internalID: -4118964617720591019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_62
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e08344ad2d2570800000000000000
+      internalID: 8443455059919956381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay-textless-square-16fps_63
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5f4e84be1e3ea0800000000000000
+      internalID: -5891237501723518427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overlay-textless-square-16fps_46: 8290675355208661936
+      Overlay-textless-square-16fps_25: 104382717295175923
+      Overlay-textless-square-16fps_11: -6786025915665634283
+      Overlay-textless-square-16fps_56: 4521979876760297681
+      Overlay-textless-square-16fps_39: -1050086167400478185
+      Overlay-textless-square-16fps_51: -1929360910123588882
+      Overlay-textless-square-16fps_53: 6197609446058334664
+      Overlay-textless-square-16fps_35: 3217915929017018925
+      Overlay-textless-square-16fps_38: 1052037937498813706
+      Overlay-textless-square-16fps_36: 2870777403098544880
+      Overlay-textless-square-16fps_29: -1631352050854945826
+      Overlay-textless-square-16fps_43: -441701590873902462
+      Overlay-textless-square-16fps_14: -2182797312584610008
+      Overlay-textless-square-16fps_49: -1535537665197003085
+      Overlay-textless-square-16fps_44: 1958075427909339922
+      Overlay-textless-square-16fps_58: 7989613830695351558
+      Overlay-textless-square-16fps_0: -3594311632341841480
+      Overlay-textless-square-16fps_30: 7592724046231122892
+      Overlay-textless-square-16fps_12: -3794091200446225609
+      Overlay-textless-square-16fps_16: 931055964561412868
+      Overlay-textless-square-16fps_61: -4118964617720591019
+      Overlay-textless-square-16fps_27: -4403319735630520429
+      Overlay-textless-square-16fps_63: -5891237501723518427
+      Overlay-textless-square-16fps_9: 8941559142540884487
+      Overlay-textless-square-16fps_7: 9115552923018785701
+      Overlay-textless-square-16fps_1: -8539661727123929128
+      Overlay-textless-square-16fps_62: 8443455059919956381
+      Overlay-textless-square-16fps_3: 2869040851224372868
+      Overlay-textless-square-16fps_26: -7945502843996575846
+      Overlay-textless-square-16fps_47: 574604484245262372
+      Overlay-textless-square-16fps_45: 2403518544309455262
+      Overlay-textless-square-16fps_10: 4153812920281894482
+      Overlay-textless-square-16fps_57: -8549104908539729575
+      Overlay-textless-square-16fps_2: -1653486855087119235
+      Overlay-textless-square-16fps_15: -5320936422715701386
+      Overlay-textless-square-16fps_31: 6341304038470356735
+      Overlay-textless-square-16fps_42: 6317257632673008890
+      Overlay-textless-square-16fps_19: -4947281897431988246
+      Overlay-textless-square-16fps_23: -7013315807679437522
+      Overlay-textless-square-16fps_59: 5244666098156823908
+      Overlay-textless-square-16fps_22: 2291016319862578998
+      Overlay-textless-square-16fps_24: 2826890245200853934
+      Overlay-textless-square-16fps_54: -5566548078025896822
+      Overlay-textless-square-16fps_21: 2719218597959803684
+      Overlay-textless-square-16fps_60: 8916922760924851107
+      Overlay-textless-square-16fps_4: -3054442834510074262
+      Overlay-textless-square-16fps_41: 2347614577006408752
+      Overlay-textless-square-16fps_20: -5944571985160138843
+      Overlay-textless-square-16fps_32: -4032552128142223082
+      Overlay-textless-square-16fps_33: -8890234826247632781
+      Overlay-textless-square-16fps_13: -6065224981438994937
+      Overlay-textless-square-16fps_55: -6795734568170991167
+      Overlay-textless-square-16fps_6: -7182223218772782349
+      Overlay-textless-square-16fps_8: 7554579009085406712
+      Overlay-textless-square-16fps_34: -6063112816920615639
+      Overlay-textless-square-16fps_5: 8801578949072484847
+      Overlay-textless-square-16fps_17: 5020491847453425752
+      Overlay-textless-square-16fps_37: 4138551517194164361
+      Overlay-textless-square-16fps_28: 6757542985749107781
+      Overlay-textless-square-16fps_50: 5558162160423925913
+      Overlay-textless-square-16fps_52: 4595218085003046351
+      Overlay-textless-square-16fps_40: -7397836255152112301
+      Overlay-textless-square-16fps_48: 5481047901110724886
+      Overlay-textless-square-16fps_18: 370490528692403711
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
